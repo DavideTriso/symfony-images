@@ -1,6 +1,6 @@
-# Docker Symfony
+# Symfony Images
 
-Image to run Symfony apps in docker
+Images to run Symfony apps in containers
 
 ## Quick reference
 
